@@ -1,5 +1,5 @@
 # MP3-Player
-MP3 Player Implementation with ArrayList Project for CSC1052
+MP3 Player Implementation with Java ArrayList Project for CSC1052
 
 #Project Task: 
 
